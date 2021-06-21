@@ -18,8 +18,7 @@ GTR Club Europe, member list and tour list with relation between the two. React/
 <b>HamLogbook-JS</b> [FrontEnd repo](https://github.com/johnzonneveld/hamlogbook-js "HamLogbook-JS") | [Demo](https://johnzonneveld.github.io/hamlogbook "HamLogbook demo")<br>
 As title Hamlogbook to keep track of contacts made through HAM radio, build with JavaScript
 
-
-
+___
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-mysql-plain colored"></i>
 <i class="devicon-postgresql-plain-wordmark colored"></i>
@@ -33,6 +32,10 @@ As title Hamlogbook to keep track of contacts made through HAM radio, build with
 <i class="devicon-visualstudio-plain"></i>
 <i class="devicon-webpack-plain-wordmark"></i>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+
+___
 
 
 
