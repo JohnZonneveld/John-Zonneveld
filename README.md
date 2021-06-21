@@ -12,7 +12,11 @@ Technologies, languages & other dev goodies: React.js, JavaScript, Redux, Redux-
 
 # Projects
 
-GCE-Webpages FrontEnd Repo
+<b>GCE-Webpages</b> [FrontEnd repo](https://github.com/JohnZonneveld/gce-frontend "GCE-Frontend")<br>
+GTR Club Europe, member list and tour list with relation between the two. React/Redux based
+
+<b>HamLogbook-JS</b> [FrontEnd repo](https://github.com/johnzonneveld/hamlogbook-js "HamLogbook-JS") | [Demo](https://johnzonneveld.github.io/hamlogbook "HamLogbook demo")<br>
+As title Hamlogbook to keep track of contacts made through HAM radio, build with JavaScript
 
 
 
@@ -28,7 +32,7 @@ GCE-Webpages FrontEnd Repo
 <i class="devicon-unix-original"></i>
 <i class="devicon-visualstudio-plain"></i>
 <i class="devicon-webpack-plain-wordmark"></i>
-<i class="devicon-ssh-original-wordmark"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
 
